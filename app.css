@@ -1,0 +1,47 @@
+.inspiration {
+	color: white !important;
+	text-decoration: none !important
+}
+
+.btn {
+	color: #FFF !important;
+	outline: none !important
+}
+
+.btn:hover {
+	opacity: 0.9
+}
+
+.btn:disabled {
+	cursor: pointer !important;
+	opacity: 0.4 !important
+}
+
+.random_background {
+	transition: background-color 2s ease;
+	background-color: #333;
+	color: #FFF
+}
+
+.random_color {
+	transition: color 2s ease;
+	color: #333
+}
+
+.platform, #history {
+	background-color: #FFF;
+	color: initial;
+	width: 40em;
+	margin: 7vw auto;
+	margin-bottom: 0.5em;
+	padding: 2em 4em;
+	border-radius: 3px
+}
+
+#quote {
+	font-size: 1.6em
+}
+
+#author {
+	font-size: 1.1em
+}
